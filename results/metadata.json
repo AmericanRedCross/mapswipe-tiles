@@ -1,0 +1,12 @@
+{
+    "name": "results.mbtiles", 
+    "format": "pbf", 
+    "description": "results.mbtiles", 
+    "json": "{\"vector_layers\": [ { \"id\": \"results\", \"description\": \"\", \"minzoom\": 0, \"maxzoom\": 18, \"fields\": {\"category\": \"String\", \"error\": \"Number\", \"one\": \"Number\", \"three\": \"Number\", \"total\": \"Number\", \"two\": \"Number\"} } ] }", 
+    "bounds": "-13.323669,-2.740044,28.552094,10.933102", 
+    "minzoom": "0", 
+    "version": "2", 
+    "maxzoom": "18", 
+    "type": "overlay", 
+    "center": "-13.318863,9.056668,18"
+}
